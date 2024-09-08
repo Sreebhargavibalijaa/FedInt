@@ -1,0 +1,6 @@
+setup.py
+fedint.egg-info/PKG-INFO
+fedint.egg-info/SOURCES.txt
+fedint.egg-info/dependency_links.txt
+fedint.egg-info/requires.txt
+fedint.egg-info/top_level.txt
